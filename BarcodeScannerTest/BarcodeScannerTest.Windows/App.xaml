@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="BarcodeScannerTest.Windows.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BarcodeScannerTest.Windows">
+
+</Application>
